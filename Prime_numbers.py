@@ -6,3 +6,5 @@ for i in r:
         break
     else:
         print("This is a prime number!")
+        
+    break    
